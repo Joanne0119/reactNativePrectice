@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>數位二甲111119024劉丞恩</Text>
+      <Text>數位二甲11111024劉丞恩</Text>
       <StatusBar style="auto" />
     </View>
   );
